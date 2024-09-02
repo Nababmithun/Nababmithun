@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Mithun Kumar Shil
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 #### I am a Native Android Developer With Kotlin and Java
 ![I am a Native Android Developer With Kotlin and Java](https://media-exp1.licdn.com/dms/image/C4D16AQESutsBhTy5Xw/profile-displaybackgroundimage-shrink_350_1400/0/1653230328077?e=1668038400&v=beta&t=5VFmPdm_nqFxvYsqqe1NI2pj8AYFcVH6eUbawNuglvI)
 
