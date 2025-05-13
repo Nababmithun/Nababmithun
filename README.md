@@ -5,11 +5,20 @@ A skilled Android developer with 5 years of experience building high-quality mob
 
 
 
-Specialties
-Leadership, Team building, Planning and process management skills, Lead Discovery, Design & Execution, Communication.
+Specialties :::
+______________________________________________________________________________________
+
+Leadership,
+Team building,
+Planning and process management skills,
+Lead Discovery,
+Design & Execution,
+Communication.
 
 
-Skills
+Skills ::::
+_____________________________________________________________________________________
+
 Java, Kotlin, Dart, jetpack Compose , KMP
 Android App Development(Native).
 Clean architecture, MVVM, MVP, Rxjava3, Dagger2, Hilt, Multi-module architecture.
@@ -23,3 +32,5 @@ Firebase push notification, Real-time Database, Firebase Auth, Crash Analytics.
 Android Service, Broadcast receiver, Video Streaming(Exo-Player), Notification.
 Code Obfuscation using Proguard and R8.
 Figma, Slack, Jira, Trello, Git, Click up.
+
+__________________________________________________________________________________
