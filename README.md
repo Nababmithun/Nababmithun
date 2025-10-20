@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mithun Kumar Shil
-Software Engineer (Native Android & Flutter Developer) | Experience (Kotlin, Java, dart, Jetpack Compose  |  Flutter)
+Software Engineer (Native Android & Flutter  & IOS Developer) | Experience (Kotlin, Java, dart, Swift , Jetpack Compose  |  Flutter ) 
 
 
 � Expertise(Native Android) 
