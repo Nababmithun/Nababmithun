@@ -1,86 +1,155 @@
-### Hi there 👋, my name is Mithun Kumar Shil
-Software Engineer (Native Android & Flutter  & IOS Developer) | Experience (Kotlin, Java, dart, Swift , Jetpack Compose  |  Flutter ) 
+💼 Senior Mobile Software Engineer
 
+Native Android (Kotlin/Java) · iOS (Swift) · Flutter (Dart)
+Jetpack Compose · Swift · MVVM · Clean Architecture · Real-time Communication · Firebase · Payments
 
-� Expertise(Native Android) 
- Programming: Kotlin, Java, C, C++,Algorithm, Data Structure. 
- Real-Time Communication: Socket.IO, WebSocket, Pusher 
- Third-Party SDKs: Agora (Video, Audio, Multi-party Call), Banuba (Beauty Filter), 
-SVGA Player (Video & Audio Animation) 
- Payment Gateways: Bkash, Nagad, SSL, Google Pay, Stripe 
- Machine Learning: TensorFlow Integration 
- Local Database: Room Database, SQLite 
- Other Tools: Navigation Graph, WorkManager, Kotlin Coroutines, LiveData 
- Media Libraries: ExoPlayer, CameraX 
- Paging Library: Paging 2, Paging 3 
- Layouts: LinearLayout, RelativeLayout, ConstraintLayout, ViewGroups, FrameLayout, 
-TableLayout, WebView, ListView, GridView 
- Data Management: SharedPreferences, Room Persistence Library, Internal & External 
-Storage, Content Provider (Data Sharing) 
- Networking: Retrofit, RxJava 
- Material Design: Material Design Components & Libraries 
- Firebase Integration: Authentication, Databases, Analytics, Realtime Database, Cloud 
-Firestore, Cloud Messaging 
- Architecture Patterns: MVVM, MVP 
- Dependency Injection: Dagger 2, Hilt 
- Image Loading: Picasso, Glide 
- UI Libraries: DataBinding, ViewBinding, ButterKnife 
- Version Control: Git, GitHub, GitLab 
- CI/CD: GitHub Actions for Android app deployment 
- Task Management: Jira, Trello, ClickUp 
- POS Software ISO: Basic ISO & Booting Knowledge, Peripheral Integration 
- Play Store Console: App Update & Release Management, Store Listing Optimization, 
-Policy & Compliance, User & Device Management, Analytics & Crash Reporting, 
-Monetization & In-App Products, A
+⭐ Professional Summary
 
+Highly skilled Mobile Engineer with experience in Native Android, iOS (Swift), and Flutter.
+Expert in building high-performance, real-time, scalable applications with clean architecture, modern UI frameworks, local storage, API integration, payments, and multimedia.
+Strong leadership, team collaboration, and problem-solving abilities with a track record of delivering end-to-end mobile app solutions.
 
-� Expertise(Flutter) 
- Programming: Dart. 
- Real-Time Communication: Socket.IO. 
- Flutter Basics: StatelessWidget vs StatefulWidget), Layout widgets (Row, Column, 
-Stack, Expanded, Flexible), Container, Padding, Align, etc. 
- State Management: setState, Provider, SSL, Riverpod GetX. 
- Navigation & Routing: setState, Provider, SSL, Riverpod GetX. 
- State Management: setState, Provider, SSL, Riverpod GetX. 
- Database & Storage: Local storage (shared_preferences), SQLite (sqflite). 
- Performance Optimization  :Widget rebuild optimization ,const usage ,Image caching. 
- Packages & Plugins: Using pub.dev packages , Writing custom plugins 
- App Lifecycle Management : Handling foreground/background states ,Push notifications,  
-Firebase Cloud Messaging).
+📱 Native Android Expertise (Kotlin & Java)
+Languages & Fundamentals
 
+Kotlin, Java, C, C++
+Algorithms & Data Structures
+OOP & clean code practices
+Modern Android Development
+Jetpack Compose
+LiveData, ViewModel, Coroutines
+Navigation Component, WorkManager
+Room Database, SQLite
+SharedPreferences, Internal/External Storage
+Content Provider
+UI & Layout
+ConstraintLayout, LinearLayout, RelativeLayout
+RecyclerView, ViewGroups, FrameLayout, GridView, WebView
+Networking & Real-Time
+Retrofit, OkHttp, GSON
+RxJava2/3
+Socket.IO, WebSocket, Pusher
+Multimedia & Camera
+ExoPlayer (Video streaming)
+CameraX (photo/video capture)
+Architecture & Code Quality
+MVVM, MVP, Clean Architecture
+Multi-module architecture
+Paging 2/3
+Proguard & R8 (Code Obfuscation)
+Third-Party SDKs
+Agora (Video/Audio/Multi-party call)
+Banuba (Beauty/AR filters)
+SVGA Player (Animations)
+Payments
+Bkash
+Nagad
+SSLCommerz
+Google Pay
+Stripe
+Firebase
+FCM (Push Notifications)
+Firebase Auth
+Realtime Database
+Firestore
+Crashlytics
+Analytics
+Tools
+Git, GitHub, GitLab
+Jira, Trello, ClickUp
+GitHub Actions (CI/CD)
 
+Figma
 
+📱 iOS Development Expertise (Swift)
+Language & Frameworks
 
+Swift
+Swift Standard Library
+UIKit (VC lifecycle, AutoLayout, Storyboards, XIBs)
+SwiftUI (basic concepts & state)
+Architecture & Patterns
+MVC, MVVM
+Protocol-Oriented Programming
+Clean code structure
+Networking & Data
+REST APIs using URLSession
+Codable for JSON parsing
+UserDefaults, FileManager
+CoreData (basic knowledge)
+UI Development
+AutoLayout constraints
+UITableView, UICollectionView
+NavigationController, TabBarController
+Light/Dark mode support
+Notifications & Background Tasks
+Push Notifications (APNs + FCM)
+Local notifications
+Background fetch
+App lifecycle management
+Integrations & SDKs
+Firebase (Auth, Firestore, Messaging)
+Google Maps SDK
+Payment SDK basics
+Socket.IO (real-time features)
+Media & Camera
+AVFoundation (audio/video fundamentals)
+AVPlayer (media playback)
+Tools & Deployment
+Xcode
+Cocoapods, Swift Package Manager
+TestFlight release
+App Store Connect (upload, release)
+Certificates & provisioning profiles
+Debugging & Performance
+Xcode Instruments (memory, CPU, leaks)
+Crash logs
+Network debugging tools
 
-Specialties :::
-______________________________________________________________________________________
+📱 Flutter Development Expertise (Dart)
+Language & Framework
 
-Leadership,
-Team building,
-Planning and process management skills,
-Lead Discovery,
-Design & Execution,
-Communication.
+Dart
+Flutter framework fundamentals
+State Management
+setState
+Provider
+Riverpod
+GetX
+(SSL typo removed)
+Navigation & Routing
+Navigator 1.0
+GetX routes
+Provider-based navigation patterns
+Storage & Persistence
+Shared Preferences
+SQLite (sqflite)
+Real-Time & Networking
+Socket.IO
+REST API integration
+Performance Optimization
+Widget rebuild optimization
+const usage
+Image caching
+Plugins & Native Integration
+pub.dev package integrations
+Writing custom platform channels/plugins
+Notifications & Lifecycle
+Firebase Cloud Messaging (FCM)
+App lifecycle handling (foreground/background)
 
+🎯 Additional Strengths
+Specialties
+Leadership
+Team building
+Planning & process management
+Communication & cross-team coordination
 
+Full mobile project execution (Discovery → Design → Development → Deployment)
 
+🚀 Skills Snapshot (Short Version)
 
-
-Skills ::::
-_____________________________________________________________________________________
-
-Java, Kotlin, Dart, jetpack Compose , KMP
-Android App Development(Native).
-Clean architecture, MVVM, MVP, Rxjava3, Dagger2, Hilt, Multi-module architecture.
-Navigation, Room, Data-Binding, View-Binding, Kotlin Coroutines, Work-Manager.
-Retrofit, Okhttp3, Volley, GSON.
-Socket.IO , Web Socket .
-Third Party SDK( Agora ( Live streaming ) , Banuba ( Filter ) , SVGA Player )
-Google Map, Place API, Direction API.
-Place Autocomplete API, Distance Matrix API.
-Firebase push notification, Real-time Database, Firebase Auth, Crash Analytics.
-Android Service, Broadcast receiver, Video Streaming(Exo-Player), Notification.
-Code Obfuscation using Proguard and R8.
-Figma, Slack, Jira, Trello, Git, Click up.
-
-__________________________________________________________________________________
+Android: Kotlin, Java, Jetpack Compose, MVVM, Retrofit, Room, FCM, ExoPlayer
+iOS: Swift, UIKit, URLSession, AutoLayout, Firebase, APNs
+Flutter: Dart, Provider, GetX, Riverpod, SQLite, FCM
+Common: Socket.IO, Payments, Firebase, Git, CI/CD, Clean Architecture
