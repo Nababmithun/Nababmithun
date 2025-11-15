@@ -1,4 +1,4 @@
-💼 Senior Mobile Software Engineer
+💼 Senior Mobile Software Engineer ( KMP & Flutter & Native Android & IOS )
 
 Native Android (Kotlin/Java) · iOS (Swift) · Flutter (Dart)
 Jetpack Compose · Swift · MVVM · Clean Architecture · Real-time Communication · Firebase · Payments
